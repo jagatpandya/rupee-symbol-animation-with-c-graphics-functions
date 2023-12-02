@@ -14,7 +14,7 @@ This C program was compiled using the GNU Compiler (GCC) and executed in the Lin
 - [x] Install dependencies \
 ***How to install graphics.h on ubuntu 18.04...***
 
-> **Note:** All the packages mentioned above are not required for just this one project program. It is just to recommend installing the important packages for running basic graphics programs.
+> **Note:** The mentioned packages are not specifically required for this individual project. It is just to recommend installing the important packages for running basic graphics programs.
 
 **Use a text editor to write a C program** 
 
