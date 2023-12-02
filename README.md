@@ -1,4 +1,4 @@
-# Animated Rupee Symbol
+# Rupee Symbol Animation
 This project visualizes and animates the rupee symbol using the line() and arc() functions in C programming language. It showcases the creation of intricate shapes and dynamic movements through code.
 
 ![Screenshot](rupee.gif?raw=true)
