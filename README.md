@@ -36,6 +36,7 @@ gcc runtheprogram.c -o experiment -lgraph
 ```bash
 ./experiment
 ```
+Take a look at the `runtheprogram.c` file below. It's used as a simple example to demonstrate how to run a C program in Linux using GCC.
 
 ![Screenshot](run-the-program-2.png?raw=true)
 ![Screenshot](run-the-program-3.png?raw=true)
