@@ -1,4 +1,4 @@
-# Rupee Symbol - Drawing & Animation
+# Animated Rupee Symbol
 
 ![Screenshot](rupee.gif?raw=true)
 
