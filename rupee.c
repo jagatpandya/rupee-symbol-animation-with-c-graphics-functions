@@ -3,7 +3,7 @@
 int main() {
     int gdriver = DETECT, gmode;
   
-    // initialize the graphics mode and local variables
+    // Initialize the graphics mode and local variables
     initgraph(&gdriver, &gmode, NULL);
     
     setbkcolor(WHITE);
@@ -17,15 +17,15 @@ int main() {
     	line(0+i, 225, 118+i, 375);
     	line(0+i, 160, 186+i, 160);
 
-        // hold the program for 20 seconds
+        // Hold the program for 20 seconds
         delay(20);
   
-        // clear the screen
+        // Clear the screen
         cleardevice();
     }
     getch();
     
-    // close the graphics mode
+    // Close the graphics mode
     closegraph();
     return 0;
 }
